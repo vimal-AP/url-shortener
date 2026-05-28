@@ -63,7 +63,7 @@ Express REST API (Node.js)
 7. Tested full flow - signup, login, shorten, redirect, analytics
 
 ## Demo Video
-https://youtu.be/Vs61rwahbtE
+https://youtu.be/Vs61rwahbtE?si=t4UG6jwnhtfYQMPx
 
 ## Sample Output
 
